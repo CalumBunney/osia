@@ -283,7 +283,7 @@ The portability of requirement was conceived for both transparency and commercia
 PII held should be usable by the Data Subject upon request. For privacy it may be held encrypted in the Data Processor system, but must be provided in a structured and commonly useable format to the Data Subject under reasonable terms of access.
 An example scenario might be where a Data Subject wishes to have a copy of a child’s birth record in a printed format or a format recognized by a third party. The concept of data portability may in some cases be implemented by a report service, or in some cases use an OSIA API to support the retrieval of personal attribute data to meet this demand.
 
-What should OSIA API implementors do to prepare for safe PII?
+So what should OSIA API implementors do to prepare for safe PII?
 
 1. Appoint someone as the organization’s own GDPR or PII data expert. Someone who understands the Data Controller business requirements, and knows the technologies likely to be used for data processing.
 2. GDPR is a good example of best practice in PII Management, but it is vital to understand the current local regulatory environment. Local existing laws and regulations take precedence unless subject to GDPR, and even then local laws may be stricter.
