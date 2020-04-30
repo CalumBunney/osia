@@ -221,9 +221,11 @@ Privacy by Design
 ----
 
 Privacy by design is a founding principle of the OSIA initiative.
+
 The OSIA API is designed to support the protection of private citizens’ Personal Identifiable Information (PII).
 The protection of PII data is a central design concern for all identity based systems regardless of where these are based. 
 PII data does not recognize geographical boundaries; it moves across systems and jurisdictions. Similarly, the OSIA initiative is not geographically limited. OSIA takes its strong reference point from the European Union’s GDPR regulation because this is considered by many as a best practice approach. GDPR anticipates the possible adverse consequences from the mobility of PII whether inside or outside the EU.
+
 The General Data Protection Regulation (GDPR) is quite recent. It was introduced across the EU in 2016, before reaching its full legal effect in 2018. It is adopted by all EU governments and carries direct regulatory and legal force for any organization handling Personal Identifiable Information (PII), either in the EU or in connection with EU citizens or residents. Compliance failure in respect of GDPR carries significant financial penalties, reflecting the rights of individuals and groups, as well as the importance of the issue.
 GDPR is not the only defined standard, but it is seen as a best practice one. It is exemplary approach for the safeguarding of PII; but, it should also be seen as a safeguard for a system owner/operator’s interests. It is a major driver for government leadership in Identity Management is to prevent identity fraud.
 
@@ -243,6 +245,7 @@ The workflow connecting components in an OSIA enabled solution
 OSIA provides a model for an open architecture. An end-to-end identity system may use some, or all of the OSIA components. It may use additional components to move data through the system. Wherever the system uses components to move data that are not covered by the OSIA framework definition then these should support end-to-end security with the same objective of GDPR compliance.
 
 PII actors
+
 The GDPR approach provides simple definitions. 
 •	PII is a very wide category of information. It can be a name, a photo, a biometric, an email address, bank details, social media postings, medical data, and even an IP address;
 •	The PII data belongs to a Data Subject who is a natural person that might identified directly or indirectly using the PII;
